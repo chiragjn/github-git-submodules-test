@@ -1,0 +1,3 @@
+[submodule "clip36_ios"]
+	path = clip36_ios
+	url = https://github.com/chiragjn/clip36_ios
